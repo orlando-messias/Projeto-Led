@@ -3,6 +3,8 @@
 
 
 Descrição do desafio:
+
+
 "Você está recebendo dois arquivos no formato CSV. O primeiro arquivo contém estatísticas sobre
 vários dinossauros. O segundo arquivo contém dados adicionais.
 
